@@ -1,0 +1,2 @@
+include ':app', ':Annotation', ':Complier', ':library'
+rootProject.name='3.6.3_Custom_ButterKnife'
